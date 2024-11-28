@@ -77,8 +77,3 @@ This project is a tutorial made by react.dev to show the basics of React. I foun
 
 ## License
 This project is open source and available under the MIT License.
-
-### Notes:
-- Replace `your-username` in the GitHub link with your actual username.
-- Add a preview image (replace `preview-image-url` with the image's link) or remove that section if unavailable.
-- Update the `LICENSE` link if you include a license file.
