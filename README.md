@@ -28,6 +28,22 @@ The code is split into three main components:
 2. **Board**: Handles the layout of the game board and tracks gameplay logic.
 3. **Game**: Manages the game state, history, and time travel functionality.
 
+## How to Run
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/tic-tac-toe-react.git
+2. Navigate to the project directory:
+   ```bash
+   cd tic-tac-toe-react
+3. Install the dependencies:
+   ```bash
+   npm install
+4. Start the development server
+   ```bash
+   npm start
+5. Open the game in your browser at http://localhost:3000.
+
 ## Key Concepts Demonstrated
 
 - **Component Composition**: Breaking the application into reusable components (`Square`, `Board`, `Game`).
@@ -58,3 +74,11 @@ This project is a tutorial made by react.dev to show the basics of React. I foun
 ## Author
 
 [codebyveronica](https://github.com/codebyveronica?tab=repositories)
+
+## License
+This project is open source and available under the MIT License.
+
+### Notes:
+- Replace `your-username` in the GitHub link with your actual username.
+- Add a preview image (replace `preview-image-url` with the image's link) or remove that section if unavailable.
+- Update the `LICENSE` link if you include a license file.
